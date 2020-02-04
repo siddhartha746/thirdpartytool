@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="2" passed="2" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2020-02-03T10:21:42 EST" name="Suite" finished-at="2020-02-03T10:22:22 EST" duration-ms="40711">
+    <groups>
+    </groups>
+    <test started-at="2020-02-03T10:21:42 EST" name="Test" finished-at="2020-02-03T10:22:22 EST" duration-ms="40711">
+      <class name="testng.SecondTest">
+        <test-method is-config="true" signature="buildexecution()[pri:0, instance:testng.SecondTest@19d37183]" started-at="2020-02-03T10:22:09 EST" name="buildexecution" finished-at="2020-02-03T10:22:15 EST" duration-ms="6581" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- buildexecution -->
+        <test-method signature="Home_TC_00011()[pri:0, instance:testng.SecondTest@19d37183]" started-at="2020-02-03T10:22:15 EST" name="Home_TC_00011" finished-at="2020-02-03T10:22:19 EST" duration-ms="3937" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Home_TC_00011 -->
+        <test-method is-config="true" signature="buildclose()[pri:0, instance:testng.SecondTest@19d37183]" started-at="2020-02-03T10:22:19 EST" name="buildclose" finished-at="2020-02-03T10:22:22 EST" duration-ms="2966" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- buildclose -->
+      </class> <!-- testng.SecondTest -->
+      <class name="testng.firsttestng">
+        <test-method signature="Updateaddress_TC_00009()[pri:0, instance:testng.firsttestng@71c8becc]" started-at="2020-02-03T10:21:42 EST" name="Updateaddress_TC_00009" finished-at="2020-02-03T10:22:09 EST" duration-ms="27180" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Updateaddress_TC_00009 -->
+      </class> <!-- testng.firsttestng -->
+    </test> <!-- Test -->
+  </suite> <!-- Suite -->
+</testng-results>
